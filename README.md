@@ -7,3 +7,6 @@
     * [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/learn/paths/build-mobile-apps-with-xamarin-forms/)
     * [Customize your Xamarin.Forms apps](https://docs.microsoft.com/learn/paths/customize-your-xamarin-forms-apps/)
     
+## Great Xamarin.Forms projects for inspiration
+
+* [Adrian Stevens'](https://twitter.com/Adrian_Stevens) [samples, such as DrumPad, AudioRecorder, OxyPlotSample, and others](https://github.com/adrianstevens/Xamarin-Forms)
